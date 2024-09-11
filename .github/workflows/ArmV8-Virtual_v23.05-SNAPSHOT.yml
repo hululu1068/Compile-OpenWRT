@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Compile immortalwrt-ArmV8-Virtual_v23.05-SNAPSHOT
+name: Compile ArmV8-Virtual_v23.05-SNAPSHOT
 
 # UTC时间每月1日08:05开始运行，北京时间:+8，即16:05(排队会有延迟)
 on:
